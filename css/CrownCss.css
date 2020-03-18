@@ -1,6 +1,21 @@
+*{
+    font-family: 'Nova Cut', cursive;
+    font-size: 21px;
+}
 .navbar{
     background-color: #E51249;
 }
 #navimg{
     margin-right: 14px;
+}
+.navbar-brand{
+    font-family: 'Pirata One', cursive;
+    font-size: 33px !important;
+}
+.btn{
+    background-color:  #9b0427!important;
+}
+.btn:hover {
+    color: white !important;
+    background-color: #720220 !important;
 }
