@@ -23,7 +23,7 @@
     height: 34rem;
 }
 .aboutUs{
-    background-color: #D68978;
+    background-color: #9E2441;
     height: 30rem;
     color: white;
 }
@@ -39,7 +39,27 @@
     font-family: 'Oswald', sans-serif;
     margin-left: 60px;
     margin-right: 60px;
+}
+/*CONTACT*/
+
+footer {
+    list-style-type: none !important;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #D68978;
+    padding-top: 8px;
+    padding-bottom: 8px;
 
 }
+
+.footer-item {
+    list-style-type: none !important;
+    float: right !important;
+    margin-left: 0.9%;
+    margin-right: 14px;
+
+}
+
 
 
