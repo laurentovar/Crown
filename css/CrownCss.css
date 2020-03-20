@@ -47,19 +47,30 @@ footer {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #D68978;
+    background-color: #f9b9ac;
     padding-top: 8px;
-    padding-bottom: 8px;
+    padding-bottom: 5px;
 
 }
 
 .footer-item {
     list-style-type: none !important;
-    float: right !important;
-    margin-left: 0.9%;
+    float: left !important;
+    margin-left: -2.1%;
     margin-right: 14px;
-
+}
+#facebook, #instagram, #twitter, #youtube{
+    width: 52%;
 }
 
-
+#stayConnected{
+    text-align: right;
+    margin-right: 5%;
+    font-size: 16px;
+    margin-bottom: 2px !important;
+}
+#copyWrite{
+font-size: 20px;
+    padding-right: 620px;
+}
 
